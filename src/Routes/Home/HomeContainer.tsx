@@ -1,13 +1,10 @@
 import React from "react";
-import styled from "../../typed_components";
+import HomePresenter from "./HomePresenter";
 
 class HomeContainer extends React.Component {
-    public render() {
-        styled.div`
-
-        `
-    }
-    }
+  public render() {
+    return <HomePresenter />;
+  }
 }
 
 export default HomeContainer;
