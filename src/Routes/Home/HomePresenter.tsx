@@ -1,6 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
-import styled from "../../typed_components";
+import styled from "../../typed-components";
 
 const Container = styled.div``;
 
